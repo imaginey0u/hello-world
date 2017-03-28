@@ -6,7 +6,7 @@ public class NewTestNG {
   @Test
   public void f() {
 	  System.out.println("testing!!!");
-	  System.out.println("en¡£¡£¡£");
+	  System.out.println("ok!!!");
   }
   @BeforeTest
   public void beforeTest() {
